@@ -1,2 +1,3 @@
 # hello-world
-Just another rep
+
+My name is Cody. I live in Chattanooga. I'm wearing a white shirt.
